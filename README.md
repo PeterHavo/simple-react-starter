@@ -1,5 +1,16 @@
 # Simple React Starter
 
+## Features
+
+* React Hot Reloading (automatic incremental refresh after any changes)
+
+* ES6 (babel compile it to ES5)
+
+* ESLint (syntax validation)
+
+* Sass (CSS pre-processor)
+
+
 ### To run
 
 * You'll need to have [git](https://git-scm.com/) and [node](https://nodejs.org/en/) installed in your system.

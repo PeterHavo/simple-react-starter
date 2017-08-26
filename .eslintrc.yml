@@ -10,8 +10,6 @@
   parserOptions:
    ecmaVersion: 6
    sourceType: "module"
-   ecmaFeatures:
-    jsx: true
 
   globals:
     __DEV__: true
@@ -20,7 +18,6 @@
   plugins:
     - react
   rules:
-    react/jsx-uses-vars: 1
     react/prop-types: [1, { ignore: [children] }]
 
     semi: 0
